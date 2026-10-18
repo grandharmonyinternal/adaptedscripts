@@ -13,8 +13,8 @@ Rules: `STYLE.md`. Checks: `node verbatim.mjs <folder> 1-5` and `node <folder>/v
 Client copy: `python3 <folder>/build_docx.py 1 5 <SHOW>_<version>_Eps1-5.docx`.
 BB v4.1: native reader has read all of Eps 1-5 (Oct 2026). PPK v4: confirm the reader has read the new beats.
 
-## v5 (sample, Ep 1 only): client voice, lengthened
+## v5: client voice, lengthened (Eps 1-5)
 | Show | Folder | What changed |
 |---|---|---|
-| Paavam Paavam Kodeeswaran | `ppk-v5/` | Ep 1 rebuilt from the client-approved script in its own narration voice (see `VOICE.md`), lengthened to 585-650 words without tag-after-quote or description padding |
-| Billionaire Boyfriend | `bb-v5/` | Same, Ep 1. `src_epN.txt` now copied from the client-approved Google Doc (29 Sep 2026) |
+| Paavam Paavam Kodeeswaran | `ppk-v5/` | Rebuilt from the client-approved script in its own narration voice (see `VOICE.md`), 585-650 words, no tag-after-quote or description padding. Keeps the reader's fix for "തിരിച്ചറിവുകൾ നല്ലതാ…" (Ep 4) |
+| Billionaire Boyfriend | `bb-v5/` | Same. `src_epN.txt` copied from the client-approved Google Doc (29 Sep 2026). Keeps the reader's v4.1 note (no plait line, Ep 5) and "അവളുടെ വാക്കുകൾ മുറിഞ്ഞു" for "പല്ലവി വിക്കി" (Ep 3) |
