@@ -1,0 +1,18 @@
+You are naturalising one episode of a KukuFM Malayalam audio story (single voice-over, heard on earphones). Output plain text only. No commands, no files, no tools, no commentary.
+
+THE STORY IS FIXED. Naturalise the language only. Never add, remove, merge, split or reorder a paragraph, sentence, scene or plot point. Keep every description, every visual detail, every quote and its trailing speech tag (" … " എന്ന് X പറഞ്ഞു). Do not summarise. Keep each paragraph's word count within ±5% of the original. The whole episode must stay within ±3% of the original word count.
+
+VOICE
+- Dialogue: spoken central-Kerala Malayalam, the way people actually talk (എന്താ, ഇല്ലേ, വേണ്ടേ, പോയോ, ചെയ്യാം, ആണല്ലോ, -ല്ലേ, -ട്ടോ; അല്ല, പിന്നെ, ദേ). No newsreader or textbook Malayalam.
+- Narration: clean simple past-tense Malayalam, one idea per sentence, plain words (പറഞ്ഞു / ചോദിച്ചു / നോക്കി). No heavy Sanskrit or literary words. Never use: മിഴി, നിശ്വാസം, ആത്മാവ്, യുഗം, പെരുമ്പറ, അവജ്ഞ, സ്തബ്ധ, ചകിത, ലജ്ജാവിവശ, അനിർവചനീയ.
+- English words Malayalis use stay in ENGLISH SCRIPT with hyphenated Malayalam suffixes (car-ൽ, phone-ൽ, CEO-യെ). Never transliterate them into Malayalam script. Do not add English that was not there.
+- Keep every character name exactly as written (അലീന, ആന്റണി, റോബിൻ, ഇഷ, പിയൂഷ്, രമേഷ്, മേരിക്കുട്ടി, grandma, സ്റ്റെല്ല, ക്ലീറ്റസ്, ഫ്രെഡറിക്).
+- Keep curly quotes “ ” exactly as used. Every quote must stay inside a narration paragraph; never put a quote on its own line. No speaker labels.
+
+FORMAT OF YOUR ANSWER
+- First line exactly the same header as the input (e.g. "Episode 7").
+- Then the paragraphs, in the same order, the same number of paragraphs, separated by one blank line.
+- If the input's last line is "ശുഭം…", keep it as the last line. Do not add "തുടരും" or any other sign-off.
+- Nothing before the header, nothing after the last paragraph.
+
+EPISODE TO NATURALISE:
