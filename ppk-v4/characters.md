@@ -1,0 +1,21 @@
+# PPK v2 continuity sheet (visuals fixed at first appearance; reuse, never contradict)
+
+- Aleena (അലീന): 25, slim, ഇരുനിറം, long wavy hair, big bright eyes, dimple when she laughs, thin gold chain with a small cross, small gold studs. Coffee-shop night staff in Bangalore. Engagement day: peach gown, hair left open with a small white flower clip. Kottayam: simple cotton churidar.
+- Antony (ആന്റണി): ~30, tall, broad shoulders. Disguise: thick overgrown beard, untidy hair, faded checked shirt with sleeves folded, തോർത്ത് on shoulder, cheap black watch with cracked glass. Real self (ep1 flash, ep7 on): clean-shaven, sharp jaw, short neat hair, steel watch. CEO, Simethi Group (സിമേതി).
+- Robin (റോബിൻ): ~30, gel-combed hair, thin French beard, cream branded suit, gold watch, strong perfume smell. Assistant manager, Simethi Bangalore branch.
+- Isha (ഇഷ): ~25, straightened hair with brown streaks, bright red lipstick, long painted nails, tight short dress, high heels, designer handbag. Aleena's cousin; father Frederick Manjooran (GM).
+- Piyush (പിയൂഷ്): ~28, thin, rimless specs, light blue formal shirt, always a file or tablet. Antony's assistant.
+- Ramesh (രമേഷ്): ~40, stout, bald patch, grey safari suit. Company manager.
+- Marykutty (മേരിക്കുട്ടി): ~52, short and plump, round kind face, grey streaks in a hair bun, cotton saree, rosary in hand. Aleena's mother.
+- Grandma: ~78, wheelchair, white ചട്ടയും മുണ്ടും, thin silver hair in a small bun, thick glasses, small sharp eyes, wrinkled hands, old rosary.
+- Stella aunty (സ്റ്റെല്ല): ~50, heavy gold chains and bangles, costly silk saree, dyed black hair, dark lipstick, loud laugh. Isha's mother.
+- Register officer (ep6): ~45, Kannada lady, cotton saree, specs on the tip of her nose, pen behind ear.
+- Airport officer (ep9): ~50, grey hair, navy blazer, airport ID tag.
+- Cletus (ക്ലീറ്റസ്) (ep31-33): ~32, heavy body, red eyes, thick gold chain, black shirt half open, country gun.
+- Resort manager (ep28-30): ~40, thin moustache, maroon blazer with name badge.
+- Rose Palace manager (ep35-37): ~45, pot belly, oily hair, cheap cream suit.
+- Frederick Manjooran (ep41-42): ~58, grey hair combed back, grey suit, thick gold-rimmed specs.
+- Antony's uncle (ep43 end): unseen face, Bangalore bungalow, cigar.
+- Places: Bangalore hotel party hall (lights, flower garlands, LED board "Betrothal, Aleena and Robin"); makeup room beside the hall; CCTV room. Register office: old Kannada board, plastic chairs, creaking ceiling fan. Antony's quarters: small room, old cupboard, one bulb. Kottayam house: old two-storey tiled house, wide front verandah, big jackfruit tree near the kitchen, star hanging in the verandah, crib in the yard; Aleena's room upstairs with an old wooden cot. Church: old white church, bell tower. Misty Mountain resort: hill road, glass lobby, chandelier. Rose Palace auditorium in Kottayam. Auction hall in the city (Queen's Way).
+- Timeline: D1 Bangalore engagement (ep1-5). Few days later register office (ep6). D+ quarters, flight next day (ep7-9). Arrival Kottayam (ep10-12). Next morning church (ep13-20). That night + next day chores (ep21-23). Christmas night attack (ep24), home next morning (ep25). Night + party next day at resort (ep26-33). Next day home (ep34), next morning Rose Palace (ep35-37), next day auction (ep38-42), wedding (ep43).
+- Additions while writing: Piyush in public wears suits (navy ep19/25, charcoal ep36) while "playing friend"; resort manager maroon blazer + name badge; inspector ep33 ~45, khaki, thick moustache; auction manager ep40 ~50, tuxedo, bow tie; Isha's house ep37 new two-storey bungalow, fountain, "മാഞ്ഞൂരാൻ" name board. Antony's full name used in ep42 as "ആന്റണി മാത്യു സിമേതി" to reconcile the approved doc's "ആന്റണി സിമേതി" (ep9/40) and "ആന്റണി മാത്യു" (ep42).

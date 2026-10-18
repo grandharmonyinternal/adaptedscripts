@@ -1,0 +1,28 @@
+# BB v2 continuity sheet (visuals fixed at first appearance; reuse, never contradict)
+
+- Meera: 22, ഇരുനിറം, long single plait, big eyes, small black bindi, faded green churidar; mall uniform കടും നീല + name tag; old chappal broken on one side, stitched with black thread (ep12). Village: Kollengode (കൊല്ലങ്കോട്).
+- Father (Eeswaran): ~60, sunburnt face, grey moustache, old shirt + mundu, തോർത്ത് on shoulder, rough calloused hands, BP, weak eyesight. Old sack bag (ചാക്കുസഞ്ചി).
+- Pallavi: 26, slim, shoulder-length coloured hair, red lipstick, short dresses, long nails red polish. ep9 black gym dress + high ponytail; ep11 light pink dress + big black sunglasses; ep13-15 shiny black dress, curled hair, thin scarf.
+- Vicky: tall, gym body, gold watch, chain.
+- Madhav Menon: 28, tall, short neat hair, light stubble, dark blue suit, sharp calm eyes; ring on thin chain, half ruby heart.
+- Shantanu: ~30, specs, round face, always a tablet.
+- Rajesh: 45, thin, oiled hair combed back, thin moustache, grey suit.
+- Ajay sir: near 60, silver hair, gold-rimmed glasses, calm kind face; ep14-16 white shirt + pants muddy from tree planting; keeps old photo of 5-yr-old Ananya in pocket; gave her the ruby heart pendant on 5th birthday.
+- Ajay's assistant: young man with a diary (ep14).
+- Electronics sales girl (ep12-13): ~25, black-and-red shop uniform, tight bun, heavy makeup, dark pink lipstick, high heels. Fired.
+- Rude mall manager (ep14): young, ID card on neck, walkie-talkie, gel-combed hair.
+- New mall cleaner (ep14): ~20, thin, scared face, new uniform.
+- Old lady customer (ep6): ~65, light green silk saree, grey hair tied neatly, gold-frame glasses.
+- Old woman with hurt leg (ep14): grey hair, walking stick.
+- DNA doctor (ep16): white coat, thick glasses, greying moustache; took Pallavi's bribe.
+- Premium store manager: male ~40, pot-bellied, sulky. Guard (ep2): ~40, fat, khaki, stick, whistle.
+- Places: Pallavi's flat = 18th floor of a 30-floor glass tower, Bandra. Mall = 10 floors, exec office on top behind glass wall; Saffron restaurant inside (dim yellow light, white tablecloths, waiters white uniform + black bow tie, VIP section). Ajay's mansion = tall iron gate, long driveway, white palace-like house, lawn, roses, white fountain, garden lamps, marble floor, white pillars, chandelier.
+- Timeline: D1 arrival (ep1-5). D2 Meera's first work day; Madhav at flat at dusk; Pallavi leaves; father leaves at dusk; Pallavi reaches mansion at dusk (ep6-11). D3 evening electronics shop, Saffron, DNA bribe that night (ep12-16a). D4 morning clothing store; lunch at mansion; afternoon bowling alley (ep16b-17).
+- Dileep Kumar (ep22+): Madhav's younger brother, TV serial star, ~26, tall, styled hair, black sunglasses, black leather jacket, mischievous smile; sings (ep25).
+- Ajay's mansion maid (ep17): 18-19, thin, oiled plaited hair, light-blue maid uniform.
+- Creepy investor (ep17-18): old, fat, bald (sweat on head), expensive suit, many gold rings; claims 500 crore invested; blacklisted.
+- Madhav's own house (ep20): big hall, white marble floor, large paintings, tall glass windows with city lights, chandelier, big old wall clock.
+- Meera's new one-room home (ep19+): top floor of an old building, peeling paint, tidy, tulsi plant at window, father's photo (towel on shoulder, smiling), small gas stove, mat + banana leaf, small creaky cot. Jasmine in her plait on dinner night.
+- Temple dance teacher (ep24 flashback): white mundu-neriyathu, sandal-paste mark; "ഭയം ചിലങ്കയ്ക്ക് പുറത്ത് വെക്കണം മോളേ".
+- Event day (ep22-25, D6): Madhav black suit; Pallavi hiding in black sunglasses + grey scarf; Meera navy uniform then white kasavu saree, side bun with jasmine, gold jimikki, red bindi for dance.
+- Timeline add: D4 night dinner at Meera's (ep19-20); D5 morning lip cut + fiancée reveal, cabin, Pallavi's fake cold (ep20-22); D6 anniversary event (ep22-25+).
