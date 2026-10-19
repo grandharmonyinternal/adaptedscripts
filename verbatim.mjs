@@ -1,7 +1,7 @@
 // Proves an episode keeps the client-approved script word for word.
 // Usage: node verbatim.mjs <show-dir> <first-last>
 // Every sentence of src_epN.txt (quotes normalised, whitespace collapsed) must appear in epN.txt.
-// Story words must be 585-650 (4:30-5:00 at 130 wpm), cue/sign-off lines excluded.
+// Story words: Eps 1-5 390-520 (3:00-4:00 at 130 wpm), Ep 6 on 585-650 (4:30-5:00). Cue/sign-off lines excluded.
 import fs from 'node:fs';
 import path from 'node:path';
 const [dir, range] = process.argv.slice(2);
@@ -16,7 +16,7 @@ for (let n = a; n <= b; n++) {
   const missing = sents.filter(s => !out.includes(s));
   const lines = raw.split('\n').map(l => l.trim()).filter(Boolean);
   const words = lines.slice(2).filter(l => !/^\[(SFX|BGM):/.test(l) && !/^(തുടരും|ശുഭം)/.test(l)).join(' ').split(/\s+/).filter(Boolean).length;
-  const ok = (sents.length - missing.length) / sents.length >= 0.75 && words >= 585 && words <= 650 && lines[0] === `Episode ${n}`;
+  const ok = (sents.length - missing.length) / sents.length >= 0.75 && words >= (n <= 5 ? 390 : 585) && words <= (n <= 5 ? 520 : 650) && lines[0] === `Episode ${n}`;
   if (!ok) bad++;
   console.log(`ep${n}: ${sents.length - missing.length}/${sents.length} approved sentences kept, ${words} words${ok ? '' : '  <-- FIX'}`);
   for (const m of missing) console.log('   missing: ' + m.slice(0, 90));
