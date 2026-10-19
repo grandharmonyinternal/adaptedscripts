@@ -20,3 +20,16 @@ How to lengthen (585-650 words):
   a small action that moves the story, a narrator aside. Never a list of what things look like.
 - Never spoil a later reveal.
 This replaces STYLE.md rules 3 (narrator questions) and 14 (tag every quote) for v5.
+
+## Native reader notes on v5 (BB Ep 1, Oct 2026): artificial phrasing to avoid
+The reader flagged these in my additions. Never write them:
+1. Contrast commentary: village vs city, then vs now, yesterday vs today
+   ("നാട്ടിൽ ആരെങ്കിലും തോള് തട്ടിയാൽ ഒരു ചിരിയോടെ മാറിപ്പോകും. ഇവിടെ അതിനു പോലും കുറ്റം.").
+2. Tacked-on body reactions after a line: hands trembling, fingers curling, breath stopping
+   ("തട്ടിമാറ്റിയ അച്ഛന്റെ ആ കൈ ചെറുതായി വിറച്ചു.").
+3. Filler verdicts and aphorisms ("അതു തന്നെയാ ശരി.", "ആ മൗനം തന്നെയായിരുന്നു മറുപടി.",
+   "രക്തം കൊണ്ടല്ല, മനസ്സു കൊണ്ട്.", "കളിപ്പാട്ടം പൊട്ടും… ഓർമ എന്നും കൂടെ കാണും").
+4. Lists of small details ("പുതിയ ചുരിദാർ, അമ്പലത്തിലെ ഉത്സവം, പശു പ്രസവിച്ച കാര്യം..").
+5. Narrator explaining a feeling the line already showed ("ആ വാക്ക് അവന്റെ ഉള്ളിൽ എവിടെയോ തട്ടി.").
+Length for Ep 6+ comes only from the story moving: the next exchange, the next action, what a character
+says or does next. If a sentence could be removed without the listener missing anything, don't write it.
