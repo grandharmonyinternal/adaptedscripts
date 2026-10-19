@@ -24,3 +24,8 @@ Length: Eps 1-5 are 3:00-4:00 (390-520 words), Ep 6 onwards 4:30-5:00 (585-650 w
 Reader notes on BB Ep 1 and PPK Ep 1 turned into rules 1-7 in `VOICE.md`, applied to all Eps 1-10 of both shows.
 Every episode ends on the client's own last line. `lint_voice.py <folder> 1 10` catches the flagged patterns.
 Docs: `out/PPK_v5.1_Eps1-10.docx`, `out/BB_v5.1_Eps1-10.docx`.
+
+## v5.2 (Eps 1-10): reader notes on BB Eps 2-3, PPK Eps 4-6, speaker clarity
+Rules 8-12 in `VOICE.md` (backstory hung on client lines, echo reactions, grooming asides, smile lines,
+speaker set up before every ambiguous line) applied to all Eps 1-10 of both shows.
+Docs: `out/PPK_v5.2_Eps1-10.docx`, `out/BB_v5.2_Eps1-10.docx` (v5 and v5.1 docs removed: review only v5.2).
