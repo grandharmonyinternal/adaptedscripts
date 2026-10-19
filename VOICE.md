@@ -33,3 +33,7 @@ The reader flagged these in my additions. Never write them:
 5. Narrator explaining a feeling the line already showed ("ആ വാക്ക് അവന്റെ ഉള്ളിൽ എവിടെയോ തട്ടി.").
 Length for Ep 6+ comes only from the story moving: the next exchange, the next action, what a character
 says or does next. If a sentence could be removed without the listener missing anything, don't write it.
+6. Added lines after the client's last line of a scene or episode (the client's ending is the ending), and
+   "reminder" lines that restate what the listener already knows ("ഇവിടെ അവൻ വെറുമൊരു catering-കാരനാ. അത് ആരും മറക്കരുത്.").
+7. Cute narrator paraphrase of a character's quip ("ആ sandwich-ന്റെ പേരിലെങ്കിലും അവൾ വരും, പോരേ?").
+Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ പോരേ?" -> "suit file ചെയ്താലോ?".
