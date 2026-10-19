@@ -19,3 +19,8 @@ Length: Eps 1-5 are 3:00-4:00 (390-520 words), Ep 6 onwards 4:30-5:00 (585-650 w
 |---|---|---|
 | Paavam Paavam Kodeeswaran | `ppk-v5/` | Rebuilt from the client-approved script in its own narration voice (see `VOICE.md`), 585-650 words, no tag-after-quote or description padding. Keeps the reader's fix for "തിരിച്ചറിവുകൾ നല്ലതാ…" (Ep 4) |
 | Billionaire Boyfriend | `bb-v5/` | Same. `src_epN.txt` copied from the client-approved Google Doc (29 Sep 2026). Keeps the reader's v4.1 note (no plait line, Ep 5) and "അവളുടെ വാക്കുകൾ മുറിഞ്ഞു" for "പല്ലവി വിക്കി" (Ep 3) |
+
+## v5.1 (Eps 1-10): native reader notes on v5 applied
+Reader notes on BB Ep 1 and PPK Ep 1 turned into rules 1-7 in `VOICE.md`, applied to all Eps 1-10 of both shows.
+Every episode ends on the client's own last line. `lint_voice.py <folder> 1 10` catches the flagged patterns.
+Docs: `out/PPK_v5.1_Eps1-10.docx`, `out/BB_v5.1_Eps1-10.docx`.
