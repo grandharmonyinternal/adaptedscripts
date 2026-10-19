@@ -37,3 +37,7 @@ says or does next. If a sentence could be removed without the listener missing a
    "reminder" lines that restate what the listener already knows ("ഇവിടെ അവൻ വെറുമൊരു catering-കാരനാ. അത് ആരും മറക്കരുത്.").
 7. Cute narrator paraphrase of a character's quip ("ആ sandwich-ന്റെ പേരിലെങ്കിലും അവൾ വരും, പോരേ?").
 Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ പോരേ?" -> "suit file ചെയ്താലോ?".
+8. Extra backstory hung on a client line ("ആ വർഷം വീട്ടിലെ പശുവിനെ വരെ വിറ്റു." after "വിളവ് വിറ്റാ…").
+9. Echo reactions that repeat or react to what was just said ("jeweller-ഓ? നമ്മുടെ അച്ഛനോ?", "fans-ഓ?"),
+   and reaction-explaining lines ("അച്ഛന്റെ മുഖത്തേക്ക് നോക്കാൻ പോലും അവൾക്ക് പറ്റുന്നില്ല.").
+10. Self-conscious grooming/appearance asides ("മുണ്ട് നേരെയാക്കി. …ഈ കോലത്തിൽ ചെല്ലണ്ടല്ലോ.").
