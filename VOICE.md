@@ -41,3 +41,8 @@ Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ �
 9. Echo reactions that repeat or react to what was just said ("jeweller-ഓ? നമ്മുടെ അച്ഛനോ?", "fans-ഓ?"),
    and reaction-explaining lines ("അച്ഛന്റെ മുഖത്തേക്ക് നോക്കാൻ പോലും അവൾക്ക് പറ്റുന്നില്ല.").
 10. Self-conscious grooming/appearance asides ("മുണ്ട് നേരെയാക്കി. …ഈ കോലത്തിൽ ചെല്ലണ്ടല്ലോ.").
+11. "tried to smile / the smile didn't come" and eyes-fixed-on-her lines ("അലീന ഒന്നു ചിരിക്കാൻ നോക്കി. പക്ഷേ ആ ചിരി വന്നില്ല.").
+12. SPEAKER CLARITY (audio has no faces): every line of dialogue, quoted or unquoted, must make clear who says it.
+    Set the speaker up BEFORE the line with a short action/verb and "..": "officer ഒന്നു ചിരിച്ചു.. “മനസ്സിലാണ്, അല്ലേ?”
+    അലീനയും ചിരിച്ചു.. “അതെ madam!”". Never fix it with "എന്ന് X പറഞ്ഞു" after the quote. This applies to the
+    client's own lines too when two speakers' lines run together (PPK Ep 6 "മനസ്സിലായിരിക്കും, അല്ലേ? എന്താ സംശയം!").
