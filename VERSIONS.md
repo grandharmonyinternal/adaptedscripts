@@ -13,7 +13,8 @@ Rules: `STYLE.md`. Checks: `node verbatim.mjs <folder> 1-5` and `node <folder>/v
 Client copy: `python3 <folder>/build_docx.py 1 5 <SHOW>_<version>_Eps1-5.docx`.
 BB v4.1: native reader has read all of Eps 1-5 (Oct 2026). PPK v4: confirm the reader has read the new beats.
 
-## v5: client voice, lengthened (Eps 1-5)
+## v5: client voice, lengthened (Eps 1-10)
+Length: Eps 1-5 are 3:00-4:00 (390-520 words), Ep 6 onwards 4:30-5:00 (585-650 words).
 | Show | Folder | What changed |
 |---|---|---|
 | Paavam Paavam Kodeeswaran | `ppk-v5/` | Rebuilt from the client-approved script in its own narration voice (see `VOICE.md`), 585-650 words, no tag-after-quote or description padding. Keeps the reader's fix for "തിരിച്ചറിവുകൾ നല്ലതാ…" (Ep 4) |
