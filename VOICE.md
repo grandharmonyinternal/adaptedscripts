@@ -54,3 +54,7 @@ Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ �
 14. When a character's own words sit in narration as reported speech and read as a flat sentence, make them
     dialogue with the speaker set up before ("Vicky-യെ വളച്ചെടുക്കാൻ അവൾ എന്തൊക്കെ പാടുപെട്ടതാ." ->
     "പിന്നെ അവൾ പല്ലു ഞെരിച്ചു.. “Vicky-യെ വളച്ചെടുക്കാൻ ഞാൻ എന്തൊക്കെ പാടുപെട്ടതാ.”"). Reader, BB Ep 4.
+15. "Looked back and forth between A's face and B's sneer" glance lines (BB Ep 5), and small-talk exchanges
+    that go nowhere ("മോളുടെ പേര് എന്താ? മീര. … നല്ല പേര്.", BB Ep 6).
+16. Client lines that read as incomplete when heard can be finished in the speaker's voice
+    (BB Ep 5 "അവൾ അത്ര special ആയിരിക്കും." -> "…അവൾ അത്ര special ആയിരിക്കും, അല്ലേ സാർ?").
