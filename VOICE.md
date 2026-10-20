@@ -67,3 +67,5 @@ consequence, mostly in short dialogue with the speaker set up before it:
 - he orders the card returned, the manager hands it back, she puts it on again;
 - the ₹30,000 goes to an account she doesn't have, so Rajesh is told to open one today.
 No narration about feelings, no description: every added line is something said or done that the next line needs.
+17. Never put an added exchange between a line and the reply that answers it (PPK Ep 7: the Appachi Q&A sat
+    between Antony's "ഞാൻ ഇങ്ങനല്ലേ?" and Alina's "അതൊക്കെ ഇവിടെ…", so her answer lost its question).

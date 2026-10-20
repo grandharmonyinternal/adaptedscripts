@@ -37,3 +37,7 @@ Docs: `out/PPK_v5.3_Eps1-10.docx`, `out/BB_v5.3_Eps1-10.docx` (older docs remove
 ## BB v5.4 (Eps 1-10): reader-cleared
 Reader: Eps 1-3 and 7-10 fine; notes on Eps 4-6 applied (rules 14-16). Doc: `out/BB_v5.4_Eps1-10.docx`.
 PPK stays at v5.3 (reader has reviewed Eps 1-6).
+
+## PPK v5.4 (Eps 1-10): reader-cleared
+Reader: only change was PPK Ep 7 dialogue placement (rule 17); rest good. Doc: `out/PPK_v5.4_Eps1-10.docx`.
+Both shows Eps 1-10 are now reader-cleared at v5.4.
