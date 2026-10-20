@@ -71,3 +71,13 @@ No narration about feelings, no description: every added line is something said 
     between Antony's "ഞാൻ ഇങ്ങനല്ലേ?" and Alina's "അതൊക്കെ ഇവിടെ…", so her answer lost its question).
 18. Don't repeat the same verb ending in back-to-back sentences ("തകർന്നുപോയി. തല താഴ്ന്നുപോയി. … ഇരുന്നുപോയി." ->
     "അച്ഛൻ ആകെ തകർന്നു. തല താഴ്ത്തി അദ്ദേഹം dining chair-ൽ ഇരുന്നു."). Reader, BB Ep 10. Applies to client lines too.
+
+## v6: natural spoken dialogue (Neethu approved the BB Ep 1 sample)
+- Keep the client's story beats and storyteller narration (and every reader rule 1-18 above).
+- Rewrite ALL dialogue, the client's included, as complete, natural spoken Malayalam: no half-sentences, no
+  "reading from paper" written forms; fix the client's small word/sentence mistakes.
+- Dialect by character: BB Meera and Achan = Palakkad (Kollengode; client BB Ep 35): നിക്കണ്, വരണത്, ഇല്ല്യേ,
+  ചൂടാവണേ, വല്ല്യ, സന്തോഷാവും, തൊടച്ചു. PPK Alina, Mary (Mammi), grandma = Kottayam (Central Travancore Christian):
+  -ുവാ forms, മമ്മീ, കർത്താവേ, മോളേ, കേട്ടോ. City characters (Mumbai/Bangalore: Pallavi, Vicky, Madhav, Robin, Isha,
+  Piyush, Ramesh, guards, officers) = urban colloquial with English mixed in. Don't overdo dialect markers.
+- Model: bb-v6/ep1.txt. `verbatim.mjs` does not apply to v6; every client beat must still be there.

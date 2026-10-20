@@ -8,7 +8,7 @@ d = os.path.dirname(os.path.abspath(__file__))
 first, last, out = int(sys.argv[1]), int(sys.argv[2]), sys.argv[3]
 doc = Document()
 doc.styles['Normal'].font.size = Pt(12)
-doc.add_heading("BILLIONAIRE BOYFRIEND (v6 sample)", 0)
+doc.add_heading("BILLIONAIRE BOYFRIEND (v6)", 0)
 for n in range(first, last + 1):
     lines = [l.strip() for l in open(os.path.join(d, f'ep{n}.txt'), encoding='utf-8') if l.strip()]
     assert lines[0] == f'Episode {n}', lines[0]
@@ -21,7 +21,7 @@ for n in range(first, last + 1):
 now = datetime.datetime.now()
 cp = doc.core_properties
 cp.author = cp.last_modified_by = 'Grand Harmony Studios'
-cp.title = "Billionaire Boyfriend v6 sample"
+cp.title = "Billionaire Boyfriend v6"
 cp.created = cp.modified = now
 cp.revision = 1
 doc.save(out)
