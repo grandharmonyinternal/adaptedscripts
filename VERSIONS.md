@@ -45,3 +45,10 @@ Both shows Eps 1-10 are now reader-cleared at v5.4.
 ## BB v5.5: reader note on Ep 10 (repeated "പോയി"), rule 18. Doc: `out/BB_v5.5_Eps1-10.docx`.
 
 ## PPK v5.5: reader note on Ep 2 (phrasing). Doc: `out/PPK_v5.5_Eps1-10.docx`.
+
+## BB v6 sample (Ep 1): natural spoken dialogue
+After Neethu's notes (dialogue reads "like reading from paper", incomplete sentences, village family's Malayalam
+matches no dialect; the same issues exist in the client's original short script), v6 keeps the client's story beats
+and narrator but rewrites dialogue as complete spoken Malayalam: Meera and Achan in Palakkad speech (client Ep 35:
+Kollengode, near Palakkad), Mumbai characters in city Malayalam. `verbatim.mjs` no longer applies to v6 dialogue.
+Doc: `out/BB_v6_sample_Ep1.docx`.
