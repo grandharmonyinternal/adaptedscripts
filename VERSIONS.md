@@ -33,3 +33,7 @@ Docs: `out/PPK_v5.2_Eps1-10.docx`, `out/BB_v5.2_Eps1-10.docx` (v5 and v5.1 docs 
 ## v5.3 (Eps 1-10): reader notes on PPK Eps 2-3
 Rule 13 (no added narrator speculation/commentary questions) applied to both shows.
 Docs: `out/PPK_v5.3_Eps1-10.docx`, `out/BB_v5.3_Eps1-10.docx` (older docs removed: review only v5.3).
+
+## BB v5.4 (Eps 1-10): reader-cleared
+Reader: Eps 1-3 and 7-10 fine; notes on Eps 4-6 applied (rules 14-16). Doc: `out/BB_v5.4_Eps1-10.docx`.
+PPK stays at v5.3 (reader has reviewed Eps 1-6).
