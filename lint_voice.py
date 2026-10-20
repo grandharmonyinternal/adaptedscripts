@@ -24,6 +24,6 @@ for n in range(a, b + 1):
     sents = [x.strip() for x in re.split(r'(?<=[.!?…])\s+', body) if x.strip()]
     for i in range(len(sents) - 2):
         ends = [re.sub(r'[.!?…”"]+$', '', x).split()[-1][-4:] for x in sents[i:i + 3] if x.split()]
-        if len(ends) == 3 and ends[0] == ends[1] == ends[2] and ends[0] in ('പോയി', 'ന്നു'):
+        if len(ends) == 3 and ends[0] == ends[1] == ends[2] and ends[0] == 'പോയി':
             hits += 1; print(f'ep{n} [same ending x3] {sents[i][:60]}')
 print('LINT CLEAN' if not hits else f'{hits} to review')
