@@ -59,7 +59,11 @@ Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ �
 16. Client lines that read as incomplete when heard can be finished in the speaker's voice
     (BB Ep 5 "അവൾ അത്ര special ആയിരിക്കും." -> "…അവൾ അത്ര special ആയിരിക്കും, അല്ലേ സാർ?").
 
-## What works (reader, BB Ep 7: "details seem very good")
-BB Ep 7 is the model for Eps 6+: nearly all client sentences kept (50/51), and the added length is almost entirely
-back-and-forth dialogue that moves the scene (the ₹200 bill, "നിനക്ക് എന്നെ അറിയില്ലേ?", Madhav playing along
-about a job, Meera standing up to Rajesh), each line with its speaker set up before it. Very little narration added.
+## What works (reader, BB Ep 8: "details seem very good")
+BB Ep 8 is the model for Eps 6+. The added length follows each client beat through to its concrete
+consequence, mostly in short dialogue with the speaker set up before it:
+- the manager takes Meera's staff card and docks her day's pay; she says take Madhav's ₹200 from it;
+- Madhav pays with a ₹500 note, "ബാക്കി വേണ്ട", and tells her to ask anyone for the bill, "ഞാനായാലും";
+- he orders the card returned, the manager hands it back, she puts it on again;
+- the ₹30,000 goes to an account she doesn't have, so Rajesh is told to open one today.
+No narration about feelings, no description: every added line is something said or done that the next line needs.
