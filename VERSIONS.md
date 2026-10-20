@@ -43,3 +43,5 @@ Reader: only change was PPK Ep 7 dialogue placement (rule 17); rest good. Doc: `
 Both shows Eps 1-10 are now reader-cleared at v5.4.
 
 ## BB v5.5: reader note on Ep 10 (repeated "പോയി"), rule 18. Doc: `out/BB_v5.5_Eps1-10.docx`.
+
+## PPK v5.5: reader note on Ep 2 (phrasing). Doc: `out/PPK_v5.5_Eps1-10.docx`.
