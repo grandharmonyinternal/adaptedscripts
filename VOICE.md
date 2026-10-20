@@ -69,3 +69,5 @@ consequence, mostly in short dialogue with the speaker set up before it:
 No narration about feelings, no description: every added line is something said or done that the next line needs.
 17. Never put an added exchange between a line and the reply that answers it (PPK Ep 7: the Appachi Q&A sat
     between Antony's "ഞാൻ ഇങ്ങനല്ലേ?" and Alina's "അതൊക്കെ ഇവിടെ…", so her answer lost its question).
+18. Don't repeat the same verb ending in back-to-back sentences ("തകർന്നുപോയി. തല താഴ്ന്നുപോയി. … ഇരുന്നുപോയി." ->
+    "അച്ഛൻ ആകെ തകർന്നു. തല താഴ്ത്തി അദ്ദേഹം dining chair-ൽ ഇരുന്നു."). Reader, BB Ep 10. Applies to client lines too.

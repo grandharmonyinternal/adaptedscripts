@@ -41,3 +41,5 @@ PPK stays at v5.3 (reader has reviewed Eps 1-6).
 ## PPK v5.4 (Eps 1-10): reader-cleared
 Reader: only change was PPK Ep 7 dialogue placement (rule 17); rest good. Doc: `out/PPK_v5.4_Eps1-10.docx`.
 Both shows Eps 1-10 are now reader-cleared at v5.4.
+
+## BB v5.5: reader note on Ep 10 (repeated "പോയി"), rule 18. Doc: `out/BB_v5.5_Eps1-10.docx`.
