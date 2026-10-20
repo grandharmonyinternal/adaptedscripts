@@ -21,7 +21,7 @@ for n in range(first, last + 1):
 now = datetime.datetime.now()
 cp = doc.core_properties
 cp.author = cp.last_modified_by = 'Grand Harmony Studios'
-cp.title = "Billionaire Boyfriend v5"
+cp.title = "Billionaire Boyfriend v5.5"
 cp.created = cp.modified = now
 cp.revision = 1
 doc.save(out)
