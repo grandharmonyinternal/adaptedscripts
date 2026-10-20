@@ -52,3 +52,5 @@ matches no dialect; the same issues exist in the client's original short script)
 and narrator but rewrites dialogue as complete spoken Malayalam: Meera and Achan in Palakkad speech (client Ep 35:
 Kollengode, near Palakkad), Mumbai characters in city Malayalam. `verbatim.mjs` no longer applies to v6 dialogue.
 Doc: `out/BB_v6_sample_Ep1.docx`.
+
+## v6 (Eps 1-5, both shows): natural spoken dialogue per Neethu-approved BB Ep 1. Docs: `out/PPK_v6_Eps1-5.docx`, `out/BB_v6_Eps1-5.docx`.
