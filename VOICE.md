@@ -51,3 +51,6 @@ Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ �
     "ഇഷ്ടമുള്ള പെണ്ണിന്റെ engagement-ന് സ്വന്തം കൈ കൊണ്ട് juice വിളമ്പുന്ന ഒരു കോടീശ്വരൻ.",
     "അന്ന് വിരലിൽ ring ഇട്ടു തന്നപ്പോൾ കണ്ണ് നിറഞ്ഞ അതേ ആളാ ഇപ്പോ ഈ പറയുന്നത്.").
     The client's own narrator questions (e.g. PPK Ep 1 "…എന്തിനാവും… വേഷം കെട്ടുന്നത്?") stay; don't add new ones.
+14. When a character's own words sit in narration as reported speech and read as a flat sentence, make them
+    dialogue with the speaker set up before ("Vicky-യെ വളച്ചെടുക്കാൻ അവൾ എന്തൊക്കെ പാടുപെട്ടതാ." ->
+    "പിന്നെ അവൾ പല്ലു ഞെരിച്ചു.. “Vicky-യെ വളച്ചെടുക്കാൻ ഞാൻ എന്തൊക്കെ പാടുപെട്ടതാ.”"). Reader, BB Ep 4.
