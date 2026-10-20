@@ -46,3 +46,8 @@ Client wording the reader corrected: PPK Ep 1 "suit file ചെയ്താൽ �
     Set the speaker up BEFORE the line with a short action/verb and "..": "officer ഒന്നു ചിരിച്ചു.. “മനസ്സിലാണ്, അല്ലേ?”
     അലീനയും ചിരിച്ചു.. “അതെ madam!”". Never fix it with "എന്ന് X പറഞ്ഞു" after the quote. This applies to the
     client's own lines too when two speakers' lines run together (PPK Ep 6 "മനസ്സിലായിരിക്കും, അല്ലേ? എന്താ സംശയം!").
+13. Narrator inner-thought questions and speculation, and narrator commentary on what a scene "means"
+    ("ഇവരൊക്കെ ഇത് നേരത്തെ അറിഞ്ഞിരുന്നോ? അറിഞ്ഞിട്ടും ആരും ഒന്നും പറഞ്ഞില്ലേ?",
+    "ഇഷ്ടമുള്ള പെണ്ണിന്റെ engagement-ന് സ്വന്തം കൈ കൊണ്ട് juice വിളമ്പുന്ന ഒരു കോടീശ്വരൻ.",
+    "അന്ന് വിരലിൽ ring ഇട്ടു തന്നപ്പോൾ കണ്ണ് നിറഞ്ഞ അതേ ആളാ ഇപ്പോ ഈ പറയുന്നത്.").
+    The client's own narrator questions (e.g. PPK Ep 1 "…എന്തിനാവും… വേഷം കെട്ടുന്നത്?") stay; don't add new ones.

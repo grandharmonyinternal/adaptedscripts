@@ -29,3 +29,7 @@ Docs: `out/PPK_v5.1_Eps1-10.docx`, `out/BB_v5.1_Eps1-10.docx`.
 Rules 8-12 in `VOICE.md` (backstory hung on client lines, echo reactions, grooming asides, smile lines,
 speaker set up before every ambiguous line) applied to all Eps 1-10 of both shows.
 Docs: `out/PPK_v5.2_Eps1-10.docx`, `out/BB_v5.2_Eps1-10.docx` (v5 and v5.1 docs removed: review only v5.2).
+
+## v5.3 (Eps 1-10): reader notes on PPK Eps 2-3
+Rule 13 (no added narrator speculation/commentary questions) applied to both shows.
+Docs: `out/PPK_v5.3_Eps1-10.docx`, `out/BB_v5.3_Eps1-10.docx` (older docs removed: review only v5.3).

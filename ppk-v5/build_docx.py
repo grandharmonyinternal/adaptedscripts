@@ -8,7 +8,7 @@ d = os.path.dirname(os.path.abspath(__file__))
 first, last, out = int(sys.argv[1]), int(sys.argv[2]), sys.argv[3]
 doc = Document()
 doc.styles['Normal'].font.size = Pt(12)
-doc.add_heading("PAAVAM PAAVAM KODEESWARAN (v5.2)", 0)
+doc.add_heading("PAAVAM PAAVAM KODEESWARAN (v5.3)", 0)
 for n in range(first, last + 1):
     lines = [l.strip() for l in open(os.path.join(d, f'ep{n}.txt'), encoding='utf-8') if l.strip()]
     assert lines[0] == f'Episode {n}', lines[0]
