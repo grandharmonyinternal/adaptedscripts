@@ -60,3 +60,9 @@ Doc: `out/BB_v6_sample_Ep1.docx`.
 ## v7 (Eps 1-10, both shows): blend of v5.5 narration flow (Vaishnav) and v6 natural dialogue (Neethu), light dialect. Docs: `out/PPK_v7_Eps1-10.docx`, `out/BB_v7_Eps1-10.docx`.
 
 ## BB v7.1: reader notes on Eps 3-4 (cut commentary line, "5 star restaurant"). Doc: `out/BB_v7.1_Eps1-10.docx`.
+
+## v5.6 (Eps 1-10, both shows): back to v5.5 per Vaishnav (better natural flow than v6/v7)
+BB: v5.5 plus the later reader fixes that land on v5.5 lines: Ep 1 "എവിടുന്നു വന്നു" line made a plain question;
+Ep 3 two added advice/commentary lines cut (rule 21); Ep 4 "5 star restaurant-ൽ നിന്ന്" (twice) and Pallavi
+named as the one who doesn't look at Achan. PPK: text identical to v5.5 (the v6.1 PPK notes were on v6 rewrites,
+not on v5.5 lines). Docs: `out/BB_v5.6_Eps1-10.docx`, `out/PPK_v5.6_Eps1-10.docx` (v5.5 docs removed).
