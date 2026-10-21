@@ -69,3 +69,6 @@ not on v5.5 lines). Docs: `out/BB_v5.6_Eps1-10.docx`, `out/PPK_v5.6_Eps1-10.docx
 
 ## PPK v5.7: reader notes on v5.6. Ep 5 last para: cut added line "ഇതാണ് ഏറ്റവും നല്ല വഴി എന്ന മട്ടിൽ…";
 Ep 10: "അതേ പോലെ തിരിച്ചു" → "തിരിച്ചും". Doc: `out/PPK_v5.7_Eps1-10.docx`. BB stays at v5.6.
+
+## PPK v5.8: Ep 2 slap goes to Antony, not Robin (reader: slapping Robin then defending him in Ep 3 is illogical;
+the client's own Ep 3 has Alina slap Robin only after the CCTV proof). Doc: `out/PPK_v5.8_Eps1-10.docx`.
