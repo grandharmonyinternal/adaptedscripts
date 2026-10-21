@@ -81,3 +81,11 @@ No narration about feelings, no description: every added line is something said 
   -ുവാ forms, മമ്മീ, കർത്താവേ, മോളേ, കേട്ടോ. City characters (Mumbai/Bangalore: Pallavi, Vicky, Madhav, Robin, Isha,
   Piyush, Ramesh, guards, officers) = urban colloquial with English mixed in. Don't overdo dialect markers.
 - Model: bb-v6/ep1.txt. `verbatim.mjs` does not apply to v6; every client beat must still be there.
+v6 reader notes (Vaishnav, Oct 21):
+19. A speaker set-up must fit the line: don't set up a harsh remark with "ചിരിച്ചു.." (PPK Ep 3
+    "വേറൊരാൾ അതിലും മോശമായിട്ട് ചിരിച്ചു.." -> "വേറൊരാൾ പറഞ്ഞത് അതിലും മോശമായിരുന്നു..").
+20. Every narration sentence needs a clear subject (BB Ep 4 "അച്ഛന്റെ നേരെ ഒന്നു തിരിഞ്ഞു നോക്കിയതു പോലുമില്ല."
+    -> "പല്ലവി അച്ഛനെ ഒന്നു നോക്കിയതു പോലുമില്ല.").
+21. No filler connectives in speech ("അതുകൊണ്ടാ.."), no echo-repeats that sound read out
+    ("എവിടുന്നു വന്നു, എവിടുന്നു വന്നു എന്നാണോ? അറിയണോ?" -> "ഞങ്ങൾ എവിടുന്നാ വരണതെന്ന് അറിയണോ?"),
+    and no tag-on lines of advice at a scene's end ("അവളെ ഒറ്റയ്ക്ക് വിടണ്ട മോളേ..").

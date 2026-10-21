@@ -54,3 +54,5 @@ Kollengode, near Palakkad), Mumbai characters in city Malayalam. `verbatim.mjs` 
 Doc: `out/BB_v6_sample_Ep1.docx`.
 
 ## v6 (Eps 1-5, both shows): natural spoken dialogue per Neethu-approved BB Ep 1. Docs: `out/PPK_v6_Eps1-5.docx`, `out/BB_v6_Eps1-5.docx`.
+
+## v6.1 (Eps 1-5): Neethu found no issues; Vaishnav notes applied (BB Eps 1,3,4; PPK Eps 2,3), rules 19-21. Docs: `out/PPK_v6.1_Eps1-5.docx`, `out/BB_v6.1_Eps1-5.docx`.
