@@ -89,3 +89,14 @@ v6 reader notes (Vaishnav, Oct 21):
 21. No filler connectives in speech ("അതുകൊണ്ടാ.."), no echo-repeats that sound read out
     ("എവിടുന്നു വന്നു, എവിടുന്നു വന്നു എന്നാണോ? അറിയണോ?" -> "ഞങ്ങൾ എവിടുന്നാ വരണതെന്ന് അറിയണോ?"),
     and no tag-on lines of advice at a scene's end ("അവളെ ഒറ്റയ്ക്ക് വിടണ്ട മോളേ..").
+
+## v7: blend (Oct 21) — v5.5 narration flow + v6 natural dialogue, light dialect
+Why: Neethu preferred v6 (dialogue sounds real); Vaishnav preferred v5.5 (story flows better as narration).
+- Base text = v5.5 (reader-cleared): keep its narrator-led storytelling. Do NOT turn narrated/reported lines into
+  quoted dialogue unless the speaker is genuinely unclear (rule 12).
+- Lines that are already dialogue in v5.5: use v6-style wording — complete, natural spoken Malayalam, client
+  mistakes fixed (take the v6 line where it is good).
+- Dialect LIGHT: Meera and Achan get a few Palakkad touches (e.g. ഇല്ല്യേ, -ണത്/-ണേ now and then, not every line);
+  Alina's family a light Kottayam colour; everyone else neutral spoken Malayalam with English mix. When in doubt, neutral.
+- Keep every reader fix from v5.5, v6 and v6.1 (rules 1-21) and the client's last line as the ending.
+- Length: Eps 1-5 390-520 words, Eps 6-10 585-650.
