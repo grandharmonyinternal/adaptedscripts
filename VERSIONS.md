@@ -66,3 +66,6 @@ BB: v5.5 plus the later reader fixes that land on v5.5 lines: Ep 1 "എവിട
 Ep 3 two added advice/commentary lines cut (rule 21); Ep 4 "5 star restaurant-ൽ നിന്ന്" (twice) and Pallavi
 named as the one who doesn't look at Achan. PPK: text identical to v5.5 (the v6.1 PPK notes were on v6 rewrites,
 not on v5.5 lines). Docs: `out/BB_v5.6_Eps1-10.docx`, `out/PPK_v5.6_Eps1-10.docx` (v5.5 docs removed).
+
+## PPK v5.7: reader notes on v5.6. Ep 5 last para: cut added line "ഇതാണ് ഏറ്റവും നല്ല വഴി എന്ന മട്ടിൽ…";
+Ep 10: "അതേ പോലെ തിരിച്ചു" → "തിരിച്ചും". Doc: `out/PPK_v5.7_Eps1-10.docx`. BB stays at v5.6.
