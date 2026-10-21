@@ -58,3 +58,5 @@ Doc: `out/BB_v6_sample_Ep1.docx`.
 ## v6.1 (Eps 1-5): Neethu found no issues; Vaishnav notes applied (BB Eps 1,3,4; PPK Eps 2,3), rules 19-21. Docs: `out/PPK_v6.1_Eps1-5.docx`, `out/BB_v6.1_Eps1-5.docx`.
 
 ## v7 (Eps 1-10, both shows): blend of v5.5 narration flow (Vaishnav) and v6 natural dialogue (Neethu), light dialect. Docs: `out/PPK_v7_Eps1-10.docx`, `out/BB_v7_Eps1-10.docx`.
+
+## BB v7.1: reader notes on Eps 3-4 (cut commentary line, "5 star restaurant"). Doc: `out/BB_v7.1_Eps1-10.docx`.
