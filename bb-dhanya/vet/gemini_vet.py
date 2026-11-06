@@ -1,21 +1,27 @@
 # Sends the new Billionaire Boyfriend episodes (bb-dhanya/ep11.txt ... ep48.txt) to the Gemini gateway on the
 # audio server for vetting, and saves Gemini's correction notes in bb-dhanya/vet/gemini/epN.md.
-# Run on the PC that is on the tailnet (same setup as ppk-v2/nat/run.py):
+# Run on a machine on the tailnet (the Mac with the gateway, or the Windows PC; same setup as ppk-v2/nat/run.py):
 #   git pull
-#   python bb-dhanya/vet/gemini_vet.py            (all episodes 11-48 that have no notes yet)
-#   python bb-dhanya/vet/gemini_vet.py 11 12 13   (only these)
+#   python3 bb-dhanya/vet/gemini_vet.py            (all episodes 11-48 that have no notes yet)
+#   python3 bb-dhanya/vet/gemini_vet.py 11 12 13   (only these)
 # Then commit and push bb-dhanya/vet/gemini/ so the notes can be applied.
+# The token comes from GATEWAY_TOKEN, else from the gateway's .env (~/gemini-tailscale-gateway/.env on the Mac,
+# C:\Users\ARUN\gemini-tailscale-gateway\.env on Windows). GATEWAY_URL overrides the address.
 import json, os, sys, time, urllib.request
 
 base = os.path.dirname(os.path.abspath(__file__))
 show = os.path.dirname(base)
 repo = os.path.dirname(show)
 tok = os.environ.get('GATEWAY_TOKEN')
-if not tok:
-    for line in open(r'C:\Users\ARUN\gemini-tailscale-gateway\.env', encoding='utf-8'):
+for env_file in [os.path.expanduser('~/gemini-tailscale-gateway/.env'), r'C:\Users\ARUN\gemini-tailscale-gateway\.env']:
+    if tok or not os.path.exists(env_file):
+        continue
+    for line in open(env_file, encoding='utf-8'):
         if line.startswith('GATEWAY_TOKEN='):
             tok = line.split('=', 1)[1].strip()
-URL = 'http://100.106.196.99:8766/v1/chat'
+if not tok:
+    sys.exit('No gateway token: set GATEWAY_TOKEN or keep the gateway .env in its usual folder.')
+URL = os.environ.get('GATEWAY_URL', 'http://100.106.196.99:8766').rstrip('/') + '/v1/chat'
 MODEL = 'gemini-3.8-flash-high'
 
 
