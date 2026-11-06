@@ -35,7 +35,7 @@ that move the scene, a character's thought. Never from new plot.
 
 ## Format
 - File: line 1 `Episode- N`, then one paragraph per line. No episode title line (only Ep 1 has one). No "തുടരും".
-  (Ep 48 alone ends with "തുടരും.. സീസണ്‍ 2-ല്‍.." because the client's season ends there.)
+  (Ep 48 alone ends with "തുടരും.. രണ്ടാം സീസണില്‍.." because the client's season ends there.)
 - Every spoken line is its **own paragraph in single straight quotes**: `'...'`. Never double quotes or curly quotes.
 - Pauses are `..` (her most used mark; `...` occasionally). Commas are rare. Exclamation marks almost never (2 in 10 episodes).
 - **No Latin letters anywhere.** English words are written in Malayalam script, as she does:
@@ -157,7 +157,7 @@ that move the scene, a character's thought. Never from new plot.
 - Ep 42: the doctor scene: 'എന്റെ അച്ഛന്‍ മോഹനന്‍..'.
 - Ep 45: the thulabharam gold goes to 'അവരുടെ നാട്ടില്‍' = Rajakkad.
 - Ep 47: Rajesh **and Rahul** are dragged in; Namitha whips both. Proposal: 'അനന്യ അജയ് മേനോന്‍.. എന്റെ നമിതാ.. മിസിസ് നമിത മാധവ് മേനോന്‍ ആവാമോ?'
-- Ep 48: balcony over the kayal and the city lights; 'കാക്കനാട്ടെ ജില്ലാ ജയില്‍'; ends 'തുടരും.. സീസണ്‍ 2-ല്‍..'.
+- Ep 48: balcony over the kayal and the city lights; 'കാക്കനാട്ടെ ജില്ലാ ജയില്‍'; ends 'തുടരും.. രണ്ടാം സീസണില്‍..'.
 - Flashback to the kidnapping (Eps 11, 34, 48): a dark room, two children hiding behind old sacks, heavy footsteps
   outside; the girl (about five) splits her locket and puts one half in little Madhav's hand: 'പേടിയാവുന്നുണ്ടല്ലേ? ഇത് ഇട്ടോ..
   എന്റെ പപ്പ തന്നതാ.. ഈ ലോക്കറ്റ് നിന്നെ കാക്കും..'. Each half has a small red ruby heart. (Don't give Madhav's age then.)
