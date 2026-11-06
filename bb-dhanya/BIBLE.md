@@ -3,8 +3,26 @@
 ## Sources
 - **Story base:** the client-approved Malayalam short script (Google Doc dated 29 Sep 2026), copied in `bb-v5/src_ep1.txt … src_ep48.txt`.
   Each new episode covers exactly one client episode: same beats, same order, same opening, same cliffhanger.
-- **Extra detail:** the original Hindi script (to be added when the user shares it). Use it only to enrich a scene
-  the short script compressed. Where the two differ, the approved Malayalam short script wins.
+- **Extra detail:** the original Hindi screenplay (Hinglish; Sargun = Namitha, Papaji/Ishwar Singh = Mohanan,
+  Pallavi = Mamitha, Mihir Raheja = Madhav, Shantanu = Sanal, Rakesh Khanna = Rajesh, Ajay Chopra = Ajay Menon,
+  Armaan Kaushal = Niranjan, Raheja Mall = Madhav's mall, Shahkot/Jalandhar = Rajakkad). The Malayalam short script
+  is a close condensation of it. Use it for scene texture, stage directions and the odd extra line. Its Eps 45–48 are
+  arranged differently and have no Season 2 hook: **follow the Malayalam episode split and its ending.** Where the two
+  differ, the approved Malayalam short script wins.
+
+## What the client likes (the brief)
+The client liked Dhanya's first ten episodes for: **the way it is written, the language, the natural narration, the
+overall flow of the story, and how descriptive she is about each scene and each character.** Every new episode must
+deliver those five things. In practice:
+- **Scene first.** Open each new location with one to three sentences that let the listener see it, the way she opens
+  the mall ('ഗ്ലാസും സ്റ്റീലും കൊണ്ട് കണ്ടംപററി സ്റ്റൈലില്‍ പണിത ആ കെട്ടിടം ഒരു ലക്ഷ്വറി മാളായിരുന്നു…') or the flat's kitchen
+  (cupboards opened one by one, the fridge with only water, champagne and five-star delivery boxes).
+- **Character on entry.** Each person who appears for the first time gets a look and a manner: Madhav ('മൂര്‍ച്ചയുള്ള നോട്ടവും
+  ഗൗരവം നിറഞ്ഞ ഭാവവും… നല്ല ഉയരമുള്ള വെളുത്ത ശരീരം, ആഢ്യത്വം തുളുമ്പുന്ന പ്രകൃതം'), the guard ('ഡാര്‍ക്ക് ബ്ലൂ കളര്‍ യൂണിഫോം ധരിച്ച…
+  ഗൗരവത്തോടെ'), the old lady ('കാഴ്ചയില്‍ തന്നെ അവര്‍ സമ്പന്നയാണെന്ന് മനസ്സിലാവും'). Keep it to a sentence or two.
+- **Flow.** Each scene runs on from the last without jumps: a small linking action or a 'അതേ സമയം…' line. Inside a scene,
+  every line answers the one before it.
+- **Natural language.** Malayalam the way people in Kerala actually speak it, narration in her warm storyteller voice.
 - **Style model:** Dhanya's Eps 1–10 (Kavya's final approval), saved verbatim in `bb-dhanya/ep1.txt … ep10.txt`.
   Write so that a listener cannot tell where Dhanya stopped. Her style overrides every earlier rule in
   VOICE.md and in the Writer Rules doc (for example she *does* tag lines with "എന്ന് പറഞ്ഞു", and she
@@ -103,3 +121,51 @@ that move the scene, a character's thought. Never from new plot.
 5. Swap every client name, place and term per the tables above.
 6. End on the client's cliffhanger.
 7. Run `python3 tools.py normalize N N` and `python3 tools.py check N N`.
+
+## Recurring places and people (describe them the same way every time)
+- **Madhav's mall:** the glass-and-steel luxury mall from Ep 5 (shops, hypermarket, restaurants, entertainment zone,
+  theatres). Saffron restaurant and its VIP section are inside it. Rival mall: വൈ സിറ്റി മാള്‍.
+- **Ajay Menon's bungalow:** an old-money Kerala mansion: big gates with guards, a long drive, teak and brass inside,
+  a nadumuttam, and a garden three times the size of Mamitha's flat (client Ep 11).
+- **Madhav's bungalow:** a modern white bungalow by the backwaters: tall glass windows, a lawn, a wide hall, the kayal
+  outside. His bedroom has his photo on the wall (Ep 32).
+- **Namitha's room (from Ep 19):** a small rented one-room house in a lane near Edappally, neat but crowded.
+- **Rajakkad:** high-range village: cardamom and pepper estates, rubber trees, mist, narrow climbing roads, the junction
+  shops, the government hospital. Mohanan's small house at the edge of the estate.
+- **Ajay Menon (first seen Ep 14):** about sixty, grey at the temples, dignified, plain in manner; at Ep 14 his white
+  shirt and trousers are covered in mud from a tree-planting programme.
+- **Niranjan (first seen Ep 22):** Madhav's younger brother, a film star and singer: stylish, easy charm, a wink.
+- **Rahul (Ep 30):** slick, gelled hair, expensive watch, a smile that doesn't reach his eyes.
+
+## Decisions for tricky spots
+- Ep 11: Namitha mentions redeeming her locket (Dhanya's Ep 10 thread); Mohanan avoids the subject and goes home by bus.
+- Ep 12: the BP machine is meant for Mohanan back in Rajakkad.
+- Ep 16: outside the trial room Namitha remembers that **her own locket** had the same small red heart, and wonders
+  if Madhav's ring is connected to her family.
+- Ep 17: Ajay says 'അനന്യ എന്റെ മോള്‍ തന്നെയാ'. Ajay and Madhav call Mamitha 'അനന്യ' until the truth comes out.
+- Ep 19: the dried leaves came from a packet tucked in a corner of **Mamitha's wardrobe** (Hindi: her almirah), not the
+  fridge (Dhanya's Ep 4 says the fridge held nothing else). Food: കപ്പയും മീന്‍കറിയും, a special green chammanthi.
+  The kappa came from Mohanan's plot.
+- Ep 24: the out-of-town performers are 'ദുബായില്‍ ഒരു സ്റ്റേജ് ഷോയ്ക്ക്'. Namitha learned മോഹിനിയാട്ടം at the temple back home.
+- Ep 25: Niranjan introduces her as coming 'ഇടുക്കിയിലെ ഒരു കൊച്ചു മലയോര ഗ്രാമത്തില്‍ നിന്ന്'.
+- Ep 35: Ajay: 'ഹൈറേഞ്ചിലേക്കാ.. ഇടുക്കിയില്‍.. രാജാക്കാട്'. The project is the client's mall project for the village.
+- Ep 36: Namitha knows she is the adopted one, so Mamitha's claim baffles her, but she doesn't connect it to herself
+  (Hindi note: she won't do 2+2).
+- Ep 38: neighbour കുഞ്ഞുമോന്‍ ചേട്ടന്‍; hospital = രാജാക്കാട്ടെ സര്‍ക്കാര്‍ ആശുപത്രി. Ep 39: Niranjan had come with Madhav.
+- Ep 41: Mamitha comes to the Rajakkad hospital in sunglasses and a scarf so nobody from the village knows her; she gives
+  her name at the desk as 'അനന്യ' (that is why the nurse later says Miss Ananya visited). Namitha is away from the ward.
+- Ep 42: the doctor scene: 'എന്റെ അച്ഛന്‍ മോഹനന്‍..'.
+- Ep 45: the thulabharam gold goes to 'അവരുടെ നാട്ടില്‍' = Rajakkad.
+- Ep 47: Rajesh **and Rahul** are dragged in; Namitha whips both. Proposal: 'അനന്യ അജയ് മേനോന്‍.. എന്റെ നമിതാ.. മിസിസ് നമിത മാധവ് മേനോന്‍ ആവാമോ?'
+- Ep 48: balcony over the kayal and the city lights; 'കാക്കനാട്ടെ ജില്ലാ ജയില്‍'; ends 'തുടരും.. സീസണ്‍ 2-ല്‍..'.
+- Flashback to the kidnapping (Eps 11, 34, 48): a dark room, two children hiding behind old sacks, heavy footsteps
+  outside; the girl (about five) splits her locket and puts one half in little Madhav's hand: 'പേടിയാവുന്നുണ്ടല്ലേ? ഇത് ഇട്ടോ..
+  എന്റെ പപ്പ തന്നതാ.. ഈ ലോക്കറ്റ് നിന്നെ കാക്കും..'. Each half has a small red ruby heart. (Don't give Madhav's age then.)
+
+## Episode split vs the Hindi
+Malayalam Eps 12–44 match Hindi Eps 12–44 one to one. Malayalam 45 = Hindi 45 + Hindi 46; Malayalam 46 = Hindi 47;
+Malayalam 47 = Hindi 48 plus the snake-tattoo man and Mamitha's line in the police jeep (Malayalam only);
+Malayalam 48 = Malayalam only (a month later, the jail call, the black car, Season 2 hook).
+
+## Reference episode
+`ep11.txt` was written to this guide first; use it with Dhanya's Eps 1–10 as the model.
